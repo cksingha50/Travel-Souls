@@ -502,16 +502,13 @@ footer{
     margin-bottom: 32px;
 
 }
-.social-links{
-    /* display: flex; */
-}
+
 .twiticon,
 .fbicon,
 .instaicon,
 .giticon{
     padding: 32px;
     border-bottom: 1px solid rgba(19, 19, 24, 0.10);
-    /* padding-bottom: 18px; */
 }
 
 .copyright{
